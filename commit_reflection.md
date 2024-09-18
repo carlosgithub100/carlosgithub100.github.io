@@ -1,3 +1,4 @@
+<img width="1427" alt="Screen Shot 2024-09-10 at 9 18 52 AM pdf" src="https://github.com/user-attachments/assets/cbbe65d5-3a58-45fb-9125-fa510d3ef188">
 Can I clearly track the development of my website through my commits?
 * Yes I can clearly track the development of my website through my commits because I can see at what points I decided to save my work meaning I was complete with a certain task and ready to move on.
 How effectively do the commit messages communicate what I was doing?
